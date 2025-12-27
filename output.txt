@@ -1,10 +1,7 @@
-Yes
-Yes
-Yes
-Yes
-No
-No
-Yes
-Yes
-No
-No
+3
+8
+4
+9
+1999999998
+-1
+24
