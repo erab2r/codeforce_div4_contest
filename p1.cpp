@@ -23,7 +23,6 @@ int main() {
         long long pref = 0;
 
         for (int k = 0; k < n; k++) {
-            // k is the remaining child
             long long left = pref;
             long long right = total - pref - a[k];
             ans = max(ans, left - right);
